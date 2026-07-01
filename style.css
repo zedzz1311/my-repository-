@@ -1,4 +1,19 @@
 body{
-    background-color: rgba(39, 7, 7, 0.809);
+    background-color: rgba(79, 25, 25, 0.83);
+    h1{
+        color: antiquewhite;
+    text-align: center;
+    font-size: 67px;
 }
-
+h2{
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+}
+p{
+    color: aliceblue;
+    font-size: 30px;
+}
+ul{
+    color: aliceblue;
+    font-size: 20px;
+}
